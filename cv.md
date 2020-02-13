@@ -9,7 +9,7 @@ Sex: Male
 - telegram Yan Black
 ***
 **About me:**
-I'm 27 years old, for today self-studying front-end developer. I was started my education in IT-sphere in april 2019 with cumputer science course provided by "SkillUp" and continued with course "Java-script in web-programming" provided by "Центр Обучающих Технологий" in september til november 2019. For today i'm continue self-education in this sphere.
+I'm 27 years old, for today self-studying front-end developer. I was started my education in IT-sphere in april 2019 with cumputer science course provided by "SkillUp" and continued with course "Java-script in web-programming" provided by "Центр Обучающих Технологий" in september till november 2019. For today i'm continue self-education in this sphere.
 **My goal is to get a job or to become a trainee at EPAM as Junior Front-end Developer.**  
 The most important for me for today is to get so much knowledge and expirience as it possible to become a skillful specialst.
 ***
@@ -44,4 +44,4 @@ Code example from Codewars 4 kyu:
 - [Владилен Минин Web-разработка](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
 ***
 **English**
-My last english practice was participating in free english course organized by [esl.by](http://esl.by/). That was **5-days intensive speaking course with native speakers as a teachers.** I was in intermediate group and that was great expirience and opportunity for me to try speak english with somebody. Also i'm trying to improve my english skills by reading tchnical documentation, books, and watching movies with original voice acting.
+My last english practice was participating in free english course organized by [esl.by](http://esl.by/). That was **5-days intensive speaking course with native speakers as a teachers.** I was in intermediate group and that was great expirience and opportunity for me to try speak english with somebody. Also i'm trying to improve my english skills by reading tchnical documentation, books, and watching movies with original voice acting.As the evidence of this event i have certificate wich was granted to me after course.
